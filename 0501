@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2022-04-30T16:39:29.084Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36 Core/1.77.103.400 QQBrowser/10.9.4624.400" version="17.5.0" etag="woPgldLYIMoP2OWno7tt" type="github"><diagram id="u3FxN2gc1TQeG-sOm6eJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-30T16:46:53.751Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36 Core/1.77.103.400 QQBrowser/10.9.4624.400" etag="T_KuJJZa4ZMNNgRTjYXP" version="17.5.0" type="github">
+  <diagram id="u3FxN2gc1TQeG-sOm6eJ" name="Page-1">
+    <mxGraphModel dx="1550" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FQ0DQrKGKGNp7NQSFdEe-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="50" width="300" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="FQ0DQrKGKGNp7NQSFdEe-2" value="&lt;font style=&quot;font-size: 25px&quot;&gt;物品向量总数n&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="339.99888888888887" y="105.00081632653064" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FQ0DQrKGKGNp7NQSFdEe-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="300" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="FQ0DQrKGKGNp7NQSFdEe-4" value="&lt;span style=&quot;font-size: 25px&quot;&gt;通过kmeans聚类将&lt;br&gt;这n个物品向量&lt;br&gt;分为k类&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="314.99888888888887" y="310.00081632653064" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FQ0DQrKGKGNp7NQSFdEe-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="510" width="300" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="FQ0DQrKGKGNp7NQSFdEe-6" value="&lt;span style=&quot;font-size: 25px&quot;&gt;按照聚类结果将每个用户&lt;br&gt;点击过的物品向量分类&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="284.99888888888887" y="555.0008163265306" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FQ0DQrKGKGNp7NQSFdEe-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="730" width="300" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="FQ0DQrKGKGNp7NQSFdEe-8" value="&lt;span style=&quot;font-size: 25px&quot;&gt;按照类别将用户点击过的&lt;br&gt;物品向量做二次平均操作&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="284.99888888888887" y="775.0008163265306" width="290" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
