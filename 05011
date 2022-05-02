@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-02T10:48:56.369Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36 Core/1.77.103.400 QQBrowser/10.9.4624.400" etag="HULm6XAEVxxQwJrcs29A" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-02T10:49:27.526Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36 Core/1.77.103.400 QQBrowser/10.9.4624.400" etag="kZ9SKIWyQ6BM-9Qfq0OC" version="17.5.0" type="github">
   <diagram id="dGu8kuk5P83-mNJWughV" name="Page-1">
     <mxGraphModel dx="2377" dy="2016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -802,8 +802,8 @@
             <mxPoint x="49" y="1310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rWJ2-voIkNsqDwYtl3wn-421" value="&lt;span style=&quot;font-size: 20px&quot;&gt;向量一次&lt;br&gt;求平均&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-70.00111111111113" y="1230.0008163265306" width="100" height="50" as="geometry" />
+        <mxCell id="rWJ2-voIkNsqDwYtl3wn-421" value="&lt;span style=&quot;font-size: 20px&quot;&gt;同类别向量&lt;br&gt;求平均&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-80.00111111111113" y="1230.0008163265306" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rWJ2-voIkNsqDwYtl3wn-426" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;strokeColor=#6D727D;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -844,8 +844,8 @@
             <mxPoint x="50" y="1450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rWJ2-voIkNsqDwYtl3wn-438" value="&lt;span style=&quot;font-size: 20px&quot;&gt;向量二次&lt;br&gt;求平均&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-70.00111111111113" y="1370.0008163265306" width="100" height="50" as="geometry" />
+        <mxCell id="rWJ2-voIkNsqDwYtl3wn-438" value="&lt;span style=&quot;font-size: 20px&quot;&gt;各类别向量&lt;br&gt;求平均&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-80.00111111111113" y="1370.0008163265306" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rWJ2-voIkNsqDwYtl3wn-439" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=0;fontSize=20;strokeColor=#6D727D;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" target="rWJ2-voIkNsqDwYtl3wn-436" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
