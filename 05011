@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-02T10:49:27.526Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36 Core/1.77.103.400 QQBrowser/10.9.4624.400" etag="kZ9SKIWyQ6BM-9Qfq0OC" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-02T10:50:00.601Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36 Core/1.77.103.400 QQBrowser/10.9.4624.400" etag="K3QFzXa9VkfnK8l1BvNK" version="17.5.0" type="github">
   <diagram id="dGu8kuk5P83-mNJWughV" name="Page-1">
     <mxGraphModel dx="2377" dy="2016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -316,8 +316,8 @@
             <mxPoint x="860" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rWJ2-voIkNsqDwYtl3wn-178" value="&lt;span style=&quot;font-size: 25px&quot;&gt;第一步：利用kmeans制定物品分类规则&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="39.99888888888887" y="-19.99918367346936" width="450" height="30" as="geometry" />
+        <mxCell id="rWJ2-voIkNsqDwYtl3wn-178" value="&lt;span style=&quot;font-size: 25px&quot;&gt;第一步：利用PCA和Kmeans制定物品分类规则&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="49.99888888888887" y="-19.99918367346936" width="530" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rWJ2-voIkNsqDwYtl3wn-179" value="&lt;span style=&quot;font-size: 25px&quot;&gt;第二步：根据每个用户浏览序列提取长期兴趣&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="39.99888888888887" y="400.00081632653064" width="520" height="30" as="geometry" />
