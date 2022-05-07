@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-07T14:07:08.403Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36 Core/1.77.103.400 QQBrowser/10.9.4624.400" etag="kl82wTlB0h2YQew3bvBk" version="18.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-07T14:08:14.575Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36 Core/1.77.103.400 QQBrowser/10.9.4624.400" etag="9iPs-1XXUMdBct3kpKUN" version="18.0.1" type="github">
   <diagram id="2PfYvctUdeHv0LB2r3wS" name="Page-1">
     <mxGraphModel dx="799" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -115,16 +115,16 @@
         <mxCell id="RmeJo9mgeb8V79kaiSmu-62" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="510" width="340" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="RmeJo9mgeb8V79kaiSmu-63" value="第三章 用户长短期兴趣特征构造" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="RmeJo9mgeb8V79kaiSmu-63" value="第四章 个性化多塔多任务召回模型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="460" y="520" width="290" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RmeJo9mgeb8V79kaiSmu-64" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;物品向量生成&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="RmeJo9mgeb8V79kaiSmu-64" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;双塔单任务召回模型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="460" y="595" width="290" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="RmeJo9mgeb8V79kaiSmu-65" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;短期兴趣&lt;br&gt;向量生成&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="RmeJo9mgeb8V79kaiSmu-65" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;知识蒸馏&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="460" y="660" width="140" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="RmeJo9mgeb8V79kaiSmu-66" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;长期兴趣&lt;br&gt;向量生成&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="RmeJo9mgeb8V79kaiSmu-66" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;用户偏好&lt;br&gt;学习子模型&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="610" y="660" width="140" height="55" as="geometry" />
         </mxCell>
         <mxCell id="RmeJo9mgeb8V79kaiSmu-67" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;实验分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;" vertex="1" parent="1">
