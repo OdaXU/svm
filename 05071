@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-07T00:44:34.796Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36 Core/1.77.103.400 QQBrowser/10.9.4624.400" etag="aUl3roP1ZlzK5HrcDTKF" version="18.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-07T00:45:51.205Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36 Core/1.77.103.400 QQBrowser/10.9.4624.400" etag="SFd090wnhhHGXtR-I4r8" version="18.0.1" type="github">
   <diagram id="30KQ0xbUd2PiLglm2pn3" name="Page-1">
     <mxGraphModel dx="1471" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,13 +26,19 @@
           <mxGeometry x="140" y="760" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jbrekQFR9LBKZfhjW_OW-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="330" y="380" width="180" height="460" as="geometry" />
+          <mxGeometry x="330" y="380" width="230" height="460" as="geometry" />
         </mxCell>
         <mxCell id="jbrekQFR9LBKZfhjW_OW-12" value="转化标签&lt;br&gt;负样本" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#000000;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="760" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jbrekQFR9LBKZfhjW_OW-13" value="转化标签&lt;br&gt;负样本&lt;br&gt;过多且&lt;br&gt;包含了&lt;br&gt;点击样本&lt;br&gt;不易学习" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#000000;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="500" width="90" height="130" as="geometry" />
+        <mxCell id="jbrekQFR9LBKZfhjW_OW-13" value="转化标签负样本&lt;br&gt;过多且包含了&lt;br&gt;点击但未转化&lt;br&gt;样本不易学习" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#000000;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="540" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jbrekQFR9LBKZfhjW_OW-14" value="转化样本" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#000000;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="340" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jbrekQFR9LBKZfhjW_OW-15" value="点击但未转化&lt;br&gt;样本" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#000000;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="410" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
