@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-08T07:25:00.689Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36 Core/1.77.103.400 QQBrowser/10.9.4624.400" etag="PbPHAydyPxzSRsrpxthL" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-08T07:25:53.910Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36 Core/1.77.103.400 QQBrowser/10.9.4624.400" etag="8-NsWwm6aO6dQZm4cr-_" version="18.0.2" type="github">
   <diagram id="H2YLEXkLDhXFlest1B8L" name="Page-1">
     <mxGraphModel dx="1471" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -87,10 +87,10 @@
           <mxGeometry x="675" y="555" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="eIb5vspi_zL8sngrl3cz-62" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=#FFFFFF;sketch=0;fontSize=15;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
-          <mxGeometry x="800" y="400" width="30" height="30" as="geometry" />
+          <mxGeometry x="810" y="400" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eIb5vspi_zL8sngrl3cz-63" value="学习点击率&lt;br&gt;PCTR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="775" y="340" width="110" height="50" as="geometry" />
+        <mxCell id="eIb5vspi_zL8sngrl3cz-63" value="&amp;lt;u(x),v(y)&amp;gt;点积&lt;br&gt;拟合点击率PCTR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="755" y="340" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eIb5vspi_zL8sngrl3cz-64" value="" style="endArrow=classic;html=1;rounded=0;sketch=0;fontSize=18;fontColor=#000000;strokeColor=#000000;fillColor=#B2C9AB;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.555;exitY=0.014;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="eIb5vspi_zL8sngrl3cz-66" target="eIb5vspi_zL8sngrl3cz-62">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -178,6 +178,12 @@
         </mxCell>
         <mxCell id="eIb5vspi_zL8sngrl3cz-84" value="用户塔" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#000000;dashed=1;" vertex="1" parent="eIb5vspi_zL8sngrl3cz-87">
           <mxGeometry x="90" y="10" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eIb5vspi_zL8sngrl3cz-88" value="y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="720" y="600" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eIb5vspi_zL8sngrl3cz-89" value="v(y)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="720" y="440" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
