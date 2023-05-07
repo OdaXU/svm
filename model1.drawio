@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-07T06:12:25.465Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Core/1.94.192.400 QQBrowser/11.5.5250.400" etag="Sl3ES_Q8vASDcNRmJTn8" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-07T06:13:12.914Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Core/1.94.192.400 QQBrowser/11.5.5250.400" etag="fh4uCEH_YYlNtMGQXmgY" version="21.2.1" type="github">
   <diagram name="第 1 页" id="2UDp8TqB2WNh8GvecXw_">
     <mxGraphModel dx="843" dy="443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -157,16 +157,16 @@
             <mxPoint x="270" y="275" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yaaFNcHA5ti1ifffjErC-36" value="a(L + R)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="yaaFNcHA5ti1ifffjErC-36" value="L + R" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="180" y="240" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yaaFNcHA5ti1ifffjErC-37" value="b(L + R)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="yaaFNcHA5ti1ifffjErC-37" value="L + R" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="240" y="240" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yaaFNcHA5ti1ifffjErC-38" value="L + R" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="yaaFNcHA5ti1ifffjErC-38" value="a(L + R)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="470" y="240" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yaaFNcHA5ti1ifffjErC-39" value="L + R" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="yaaFNcHA5ti1ifffjErC-39" value="b(L + R)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="530" y="240" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yaaFNcHA5ti1ifffjErC-40" value="" style="endArrow=none;html=1;rounded=0;entryX=0.447;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1">
